@@ -1,32 +1,27 @@
 # CS50_Harvard_edu   
-## Intro.   
+### Intro.   
+#### I take the class "CS50" from edwith boostcourse.   
+#### I choose this course for 3 reasons.   
+#### 1.  Understand the basic concepts of computer science.   
+#### 2.  I can Practice array, data structure, and algorithms using C.   
+#### 3. Develops the computing thinking required for programming.   
+### What is 'CS50'?   
+#### <https://cs50.harvard.edu/college/>   
+#### Tool : <https://sandbox.cs50.io/>
    
-### I take the class "CS50" from edwith boostcourse.   
-### I choose this course for 3 reasons.   
-### 1.  Understand the basic concepts of computer science.   
-### 2.  I can Practice array, data structure, and algorithms using C.   
-### 3. Develops the computing thinking required for programming.   
-   
-## What is 'CS50'?   
-### <https://cs50.harvard.edu/college/>   
-### Tool : <https://sandbox.cs50.io/>
-   
-## Week1. Computational Thinking   
-### 1) Binary, bit, byte   
-   
-#### Q. What is 5 in binary?   
-#### A. 101   
-#### (2^2*1)+(2^1*0)+(2^0*1)=4+0+1=5   
-   
-### 2) ASCII, Unicode, RGB   
-#### Q. What is "CS50" in binary?   
-#### A. 01000011  01010011  00110010   
-##### CS50   
-##### C(67) : 1000011   
-##### S(83) : 1010011   
-##### 50 : 110010   
-   
-### 3) Algorithms, Pseudocode   
+### Week1. Computational Thinking   
+##### 1) Binary, bit, byte   
+##### Q. What is 5 in binary?   
+##### A. 101   
+##### (2^2*1)+(2^1*0)+(2^0*1)=4+0+1=5   
+#### 2) ASCII, Unicode, RGB   
+##### Q. What is "CS50" in binary?   
+##### A. 01000011  01010011  00110010   
+###### CS50   
+###### C(67) : 1000011   
+###### S(83) : 1010011   
+###### 50 : 110010   
+#### 3) Algorithms, Pseudocode
 
   1 Pick up phone book
   2 Open to middle of phone book
