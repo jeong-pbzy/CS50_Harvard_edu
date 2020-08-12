@@ -43,3 +43,7 @@ This is Pseudocode.
 #### 2) String
 :Variable to save string.
 * exercise : string.c
+#### 3) Conditions & Loop
+* exercise : loop.c / conditions.c
+#### 4)Data type / Format Specifier / Operator
+* exercise : int.c / float.c / parity.c / agree.c
