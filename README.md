@@ -39,6 +39,7 @@ This is Pseudocode.
 ### Week2
 #### 1) Compiler
 : Converts source code to machine code.
-exercise : hello.c
+* exercise : hello.c
 #### 2) String
-exercise : string.c
+:Variable to save string.
+* exercise : string.c
