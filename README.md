@@ -36,10 +36,9 @@ This is Pseudocode.
     11	Go back to line 3
     12 Else
     13	Quit
-    
-###Week2
-####1) Compiler
+### Week2
+#### 1) Compiler
 : Converts source code to machine code.
 exercise : hello.c
-####2) String
+#### 2) String
 exercise : string.c
