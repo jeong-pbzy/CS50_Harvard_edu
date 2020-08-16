@@ -36,7 +36,7 @@ This is Pseudocode.
     11	Go back to line 3
     12 Else
     13	Quit
-### Week2
+### Week2. Language C
 #### 1) Compiler
 : Converts source code to machine code.
 * exercise : hello.c
@@ -51,3 +51,12 @@ This is Pseudocode.
 * exercise : cough.c ~ / mario.c ~ / positive.c
 #### 6) Memory, Overflow
 * exercise : floats.c / overflow.c
+#### Mission
+* week2_m1, week2_m2
+### Week3. Array
+#### 1) Compiling
+Process: Precompile-Compile-Assemble-Link
+#### 2) Debugging
+Breakpoint : Stop point
+#### 3) Code style
+Programming style, also known as code style, is a set of rules or guidelines used when writing the source code for a computer program. 
