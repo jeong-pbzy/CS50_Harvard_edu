@@ -47,3 +47,7 @@ This is Pseudocode.
 * exercise : loop.c / conditions.c
 #### 4)Data type / Format Specifier / Operator
 * exercise : int.c / float.c / parity.c / agree.c
+#### 5) Use-defined functions / Nested Loops
+* exercise : cough.c ~ / mario.c ~ / positive.c
+#### 6) Memory, Overflow
+* exercise : floats.c / overflow.c
