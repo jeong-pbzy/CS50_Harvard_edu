@@ -60,3 +60,11 @@ Process: Precompile-Compile-Assemble-Link
 Breakpoint : Stop point
 #### 3) Code style
 Programming style, also known as code style, is a set of rules or guidelines used when writing the source code for a computer program. 
+#### 4) Array
+Global variables :Global variables can be accessed inside any of the functions defined for the program.
+* exercise : hi.c / score.c / scores-1.c
+#### 5) Array of String
+null characters, strlen, toupper
+* exercise : names.c / string.c / uppercase.c
+#### 6) Command-line arguments
+* exercise : argv.c / exit.c
