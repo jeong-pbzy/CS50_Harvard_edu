@@ -70,6 +70,6 @@ null characters, strlen, toupper
 * exercise : argv.c / exit.c
 ### Week4. Algorithm
 #### 1) Algorithm
-Big O / Big Ω(omega)
+Linear Search / Binary Search / Big O / Big Ω(omega)
 #### 2) Linear Search
 * exercise : number.c / namesearch.c / phonebook.c / phonebook-1.c
