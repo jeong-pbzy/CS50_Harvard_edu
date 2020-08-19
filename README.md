@@ -73,3 +73,5 @@ null characters, strlen, toupper
 Linear Search / Binary Search / Big O / Big Ω(omega)
 #### 2) Linear Search
 * exercise : number.c / namesearch.c / phonebook.c / phonebook-1.c
+#### 3) Bubble Sort / Selection Sort
+O(n^2) / Ω(n^2)
