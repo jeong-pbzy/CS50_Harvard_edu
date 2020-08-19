@@ -75,3 +75,5 @@ Linear Search / Binary Search / Big O / Big Ω(omega)
 * exercise : number.c / namesearch.c / phonebook.c / phonebook-1.c
 #### 3) Bubble Sort / Selection Sort
 O(n^2) / Ω(n^2)
+#### 4) Recursion
+* exercise : iteration.c / recursion.c
