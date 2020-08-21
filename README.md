@@ -77,3 +77,12 @@ Linear Search / Binary Search / Big O / Big Ω(omega)
 O(n^2) / Ω(n^2)
 #### 4) Recursion
 * exercise : iteration.c / recursion.c
+#### 5) Merge Sort
+O(n log n) / Ω(n log n)
+### Week5. Memory
+#### 1) Hexadecimal / Memory address
+* exercise : address.c
+#### 2) Pointer
+* exercise : address-1.c
+#### 3) String
+* exercise : pointerstring.c
