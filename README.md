@@ -85,4 +85,4 @@ O(n log n) / Ω(n log n)
 #### 2) Pointer
 * exercise : address-1.c
 #### 3) String
-* exercise : pointerstring.c
+* exercise : pointerstring.c / compare.c / compare-1.c
