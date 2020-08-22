@@ -86,3 +86,7 @@ O(n log n) / Ω(n log n)
 * exercise : address-1.c
 #### 3) String
 * exercise : pointerstring.c / compare.c / compare-1.c
+#### 4) Malloc
+* exercise: copy.c / copy-1.c
+#### 5) Free / valgrind
+* exercise : copy-2.c / memory.c
