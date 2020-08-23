@@ -90,3 +90,12 @@ O(n log n) / Ω(n log n)
 * exercise: copy.c / copy-1.c
 #### 5) Free / valgrind
 * exercise : copy-2.c / memory.c
+#### 6) Heap / Stack
+machine code - globals - heap - stack 
+* exercise : swap.c
+#### 7) Write file
+heap overflow / stack overflow / buffer overflow  
+Scanf / fopen / fprintf / fclose
+* exercise : scanf.c / stringscanf.c / phonebook_scanf.c
+#### 8) read file
+* exercise : jpeg.c
