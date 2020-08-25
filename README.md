@@ -99,3 +99,8 @@ Scanf / fopen / fprintf / fclose
 * exercise : scanf.c / stringscanf.c / phonebook_scanf.c
 #### 8) read file
 * exercise : jpeg.c
+### Week6. Data Structures
+#### 1) Malloc, pointer
+#### 2) Size of array
+malloc / realloc
+* exercise : list.c / list-1.c
