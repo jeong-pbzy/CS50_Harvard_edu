@@ -104,3 +104,9 @@ Scanf / fopen / fprintf / fclose
 #### 2) Size of array
 malloc / realloc
 * exercise : list.c / list-1.c
+#### 3) Linked lists
+* exercise : structures.c
+#### 4) Hash table / tries 
+#### 5) Queues / Stack / Dictionaries
+Queues : FIFO. enqueue, dequeue  
+Stack :LIFO. push , pop  
